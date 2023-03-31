@@ -2,8 +2,6 @@
 
 hi, i'm a developer from china. 
 
-<img align="right" alt="GIF" src="https://avatars.githubusercontent.com/u/3920425?v=4" width="298" height="298" />
-
 **#### 🌻 My Work 🌻**
 
 - [范本全能王](http://chargingstationnearyou.info/template)<code><img height="40" src="http://chargingstationnearyou.info/static/media/asts_qrcode.fe154f035aec8c89b6e2.png"></code>
@@ -22,7 +20,8 @@ hi, i'm a developer from china.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=likenow.likenow)
 
-
+<a href="https://twitter.com/tunyudao/">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a> **Contact me **
 
 #### 📈 my github stats
 
@@ -30,5 +29,5 @@ hi, i'm a developer from china.
 
 
 
-<a href="https://twitter.com/tunyudao/">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a> **Contact me **
+
+
