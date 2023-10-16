@@ -6,7 +6,7 @@ hi, i'm a developer from china.
 
 - [范本全能王](http://chargingstationnearyou.info/template)<code><img height="40" src="http://chargingstationnearyou.info/static/media/asts_qrcode.fe154f035aec8c89b6e2.png"></code>
 
-- [附近加油站](http://chargingstationnearyou.info/)<code><img height="40" src="http://chargingstationnearyou.info/logo192.png"></code>
+- [附近充电桩](http://chargingstationnearyou.info/)<code><img height="40" src="http://chargingstationnearyou.info/logo192.png"></code>
 
 - [web3Texts](https://web3texteth.xyz/)<code><img height="40" src="https://web3texteth.xyz/logo192.png"></code>
 
